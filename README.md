@@ -1,5 +1,5 @@
-# actividad-redes
-actividad bootcamp lunes 23 de marzo
+# Actividad-FUNDAMENTOS DE REDES
+    actividad bootcamp lunes 23 de marzo
 # 🌐 Fase 1: Investigación - Dispositivos de Red
 
 Este documento contiene la base teórica sobre los dispositivos fundamentales de infraestructura de red, diseñada para estudiantes de desarrollo que necesitan entender cómo viajan sus datos.
